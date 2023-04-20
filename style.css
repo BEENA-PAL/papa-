@@ -1,0 +1,24 @@
+img{
+    height: 400px;
+    width: 300px;
+    border: 5px solid white;
+}
+body{
+    background-color: black;
+    text-align: center;
+    padding: 40px;
+
+}
+h1{
+    color:white;
+    font-family: "libra baskerville,serif";
+    
+    
+}
+p{
+    color:white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 22px;
+
+
+}
